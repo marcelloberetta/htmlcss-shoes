@@ -1,0 +1,57 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:  'Rubik Mono One', sans-serif;
+}
+
+.firstshoes
+{
+  background-color: red;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  
+}
+
+
+.secondshoes
+{
+  background-color: green;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+
+}
+
+.thirdshoes
+{
+  background-color: yellow;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.firsttitles h1, .secondtitles h1
+{  color: yellow;
+
+}
+
+.thirdtitles h1
+{
+  color:forestgreen;
+}
+
+.button1, .button2, .button3{
+  display: inline-block;
+  border-radius: 45%;
+  background-color: white;
+  font-size: larger;
+  padding: 5px;
+}
+
+.buttons{
+  
+}
